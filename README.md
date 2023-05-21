@@ -15,3 +15,14 @@ math modules in python
     2.23606797749979
     78125.0
     1679616.0
+
+math radians
+
+* Input: A real number.
+* Return Type: A floating-point number.
+
+This function takes one number x in degrees as input and returns the converted value of x in radians.
+
+solution:
+
+     3.141592653589793
