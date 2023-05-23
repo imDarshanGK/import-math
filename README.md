@@ -26,3 +26,14 @@ This function takes one number x in degrees as input and returns the converted v
 solution:
 
      3.141592653589793
+
+math acos
+
+* Input: A real number
+* Return Type: A floating-point number
+
+This function takes one number x and returns the arc cosine of x in radians. The value returned lines between 0 and pi
+
+solution:
+
+     0.6761305095606613
