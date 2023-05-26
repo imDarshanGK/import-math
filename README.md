@@ -37,3 +37,15 @@ This function takes one number x and returns the arc cosine of x in radians. The
 solution:
 
      0.6761305095606613
+     
+  math.ldexp
+  
+* Input: A real number and an integer.
+* Return type: A floating-point number.
+
+This function takes a real number x and an integer i as arguments and returns the value of the expression x*2i.
+
+solution:
+
+    l= 80.0
+
