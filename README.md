@@ -49,3 +49,14 @@ solution:
 
     l= 80.0
 
+math.erfc(x)
+
+* Input: A real number
+* Return type: A floating-point number
+
+This function takes a number x as an argument and returns the complement of the error function of x
+
+solution:
+
+     v= 1.6715105790914593e-07
+
