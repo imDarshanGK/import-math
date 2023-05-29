@@ -59,4 +59,14 @@ This function takes a number x as an argument and returns the complement of the 
 solution:
 
      v= 1.6715105790914593e-07
+     
+math fsum
 
+* Input: An integrable object containing real numbers.
+* Return type: A floating-point number.
+
+This function takes an integrable object like a list as an argument and returns the floating-point sum of the iterable object.
+
+solution:
+
+      3.3
