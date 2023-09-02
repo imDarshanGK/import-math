@@ -131,3 +131,17 @@ base is optional and it's the logarithmic base to use.
 solutio:
 
       3.1354942159291497
+# math tau
+math.tau
+
+Tau
+
+Tau is defined as the ratio of the circumference to the radius of a circle. The math.tau constant returns the value tau: 6.283185307179586
+
+syntax:
+
+        math.tau
+        
+solution:
+        
+        6.283185307179586
