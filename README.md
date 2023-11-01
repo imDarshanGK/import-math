@@ -145,3 +145,8 @@ syntax:
 solution:
         
         6.283185307179586
+# import time as t
+
+    1698813990.1599178
+    time.struct_time(tm_year=2023, tm_mon=11, tm_mday=1, tm_hour=10, tm_min=16, tm_sec=30, tm_wday=2, tm_yday=305, tm_isdst=0)
+    Wed Nov  1 10:16:30 2023
