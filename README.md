@@ -194,3 +194,24 @@ This function takes a number x as an argument and returns true if x is infinite 
 solution:
 
     r= False
+# math floor
+import math math.floor
+
+The math.floor() method rounds a number DOWN to the nearest integer, if necessary, and returns the result.
+
+Tip: To round a number UP to the nearest integer, look at the math.ceil() method
+
+Syntax:
+
+       math.floor()
+       
+Solutions:
+
+        0
+        11
+        15
+        -6
+        122
+        10
+        111
+        1110
