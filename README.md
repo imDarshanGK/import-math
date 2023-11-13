@@ -262,3 +262,9 @@ Syntax of this is:
 solution
 
           The value of Euler's Number is: 2.718281828459045
+# import time apple
+import time apple
+
+      2 Apple
+      3 Apple
+      4 Apple
