@@ -275,3 +275,11 @@ The math.ceil() method rounds a number upwards to its nearest integer, and the m
 
            x= 2
            y= 1
+# Built in Math Functions
+Built in Math Functions
+
+The min() and max() functions can be used to find the lowest or highest value in an iterable.
+
+      5
+      25
+
