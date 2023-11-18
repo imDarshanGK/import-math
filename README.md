@@ -283,3 +283,12 @@ The min() and max() functions can be used to find the lowest or highest value in
       5
       25
 
+# import math as ceil floor round
+ceil,floor,round
+
+      6
+      5
+      8
+      4
+      7
+      67
