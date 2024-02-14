@@ -1,0 +1,13 @@
+import math as m
+print(m.factorial(4))
+print(m.factorial(3))
+print(m.gcd(15,13))
+print(m.gcd(10,38,54))
+print(m.hypot(6,8))
+print(m.hypot(11,13))
+print(m.lcm(81,112))
+print(m.lcm(12,6,5))
+print(m.sqrt(5))
+print(m.sqrt(51))
+print(m.pow(52,71))
+print(m.pow(7,83))
