@@ -16,7 +16,7 @@ math modules in python
     78125.0
     1679616.0
 
-math radians
+# math radians
 
 * Input: A real number.
 * Return Type: A floating-point number.
@@ -27,7 +27,7 @@ solution:
 
      3.141592653589793
 
-math acos
+# math acos
 
 * Input: A real number
 * Return Type: A floating-point number
@@ -38,7 +38,7 @@ solution:
 
      0.6761305095606613
      
-  math.ldexp
+#  math.ldexp
   
 * Input: A real number and an integer.
 * Return type: A floating-point number.
@@ -49,7 +49,7 @@ solution:
 
     l= 80.0
 
-math.erfc(x)
+# math.erfc(x)
 
 * Input: A real number
 * Return type: A floating-point number
@@ -60,7 +60,7 @@ solution:
 
      v= 1.6715105790914593e-07
      
-math fsum
+# math fsum
 
 * Input: An integrable object containing real numbers.
 * Return type: A floating-point number.
@@ -347,4 +347,17 @@ import math as m
     7.14142842854285
     6.85863036805618e+121
     1.3903921949820524e+70
+
+# Round function
+import math round function 
+
+The round() function returns the rounded value of a number.
+
+solution:
+
+        a>> 12
+        The rounded off value is 12
+        
+        a>> 5.6
+        The rounded off value is 6
 
