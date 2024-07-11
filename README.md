@@ -1,8 +1,6 @@
 # import math
 math modules in python  
 
-
-
     720
     120
     6
@@ -76,8 +74,7 @@ import math
 math.comb(n,r)
 
  * Input: Positive integers n and r
-
-* Return Type: Integer number
+ * Return Type: Integer number
 
 This function takes two positive integers as input and returns the value of nCr i.e. the number of ways of choosing r items from n items without any repetition and without any order. In terms of real life, let there be 14 books on a shelf: A B C D Then, the ways of selecting 14 books out of 2 books are as follows :
 
